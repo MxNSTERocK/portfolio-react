@@ -24,6 +24,10 @@ export const ProjectCard = ({ title, description, imgUrl, link, prog }) => {
         return { backgroundColor: "teal", color: "white" };
       case "vb.net":
         return { backgroundColor: "teal", color: "white" };
+      case "react":
+        return { backgroundColor: "prussian", color: "white" };
+      case "three":
+        return { backgroundColor: "cypress", color: "white" };
       default:
         return { backgroundColor: "gray", color: "white" };
     }

@@ -14,7 +14,7 @@ import php from "../assets/img/php.png";
 import gym from "../assets/img/gym.png";
 import que from "../assets/img/que.png";
 import portfolio from "../assets/img/port.png";
-import three from "../assets/img/react-vid.mp4";
+import three from "../assets/img/vid-react.mp4";
 
 import dental from "../assets/img/dental.png";
 import boot from "../assets/img/cert-boot.jpg";
@@ -133,7 +133,7 @@ export const Projects = () => {
       title: "Portfolio Three",
       description: "Portfolio Three Js",
       imgUrl: three,
-      prog: "React, Three Js",
+      prog: "React, Three",
       link: "https://github.com/MxNSTERocK/react-portfolio",
     },
   ];
