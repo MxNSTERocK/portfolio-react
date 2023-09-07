@@ -93,7 +93,7 @@ export const IconsData = [
   },
   {
     src: php,
-    alt: "php Icon",
+    alt: "php",
     title: "php",
     level: "Intermediate",
   },
