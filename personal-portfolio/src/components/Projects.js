@@ -28,7 +28,7 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import HorizontalTimeline from "./HorizontalTimeline";
-import Certificate from "./Certificate"; // Import the default export
+import Certificate from "./Certificate";
 
 export const IconsData = [
   {
@@ -93,7 +93,7 @@ export const IconsData = [
   },
   {
     src: php,
-    alt: "php",
+    alt: "php Icon",
     title: "php",
     level: "Intermediate",
   },
